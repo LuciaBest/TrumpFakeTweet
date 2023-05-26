@@ -10,10 +10,10 @@ import time
 import tweepy
 
 # Replace these values with your own keys
-CONSUMER_KEY = "qGroZlB63TQPMgBCE3kGoRvLj"
-CONSUMER_SECRET = "lr3OCcF1pbLpy9NPmzDbGk4I5Fd6coT8pRzEOXTateZ21f9Jq7"
-ACCESS_KEY = "1578459696851292160-DpLY7Kvx1AvUQhnZDEb0nR4VeJFckY"
-ACCESS_SECRET = "QrFXzOrZqrutnfXf2GS2EL0D858lztpDYABfrLAwy54KW"
+CONSUMER_KEY = "****"
+CONSUMER_SECRET = "****"
+ACCESS_KEY = "****"
+ACCESS_SECRET = "****"
 
 
 def tweet_line_by_line(file_name):
